@@ -1,0 +1,30 @@
+{
+  "name": "dualstack-myvue",
+  "version": "1.0.0",
+  "description": "a vue demo app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenHaeck/dualstack-myvue.git"
+  },
+  "keywords": [
+    "npm",
+    "dualstack",
+    "codebuddy"
+  ],
+  "author": "Ruben Haeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubenHaeck/dualstack-myvue/issues"
+  },
+  "homepage": "https://github.com/RubenHaeck/dualstack-myvue#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
